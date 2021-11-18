@@ -7,7 +7,7 @@ public class SoftwareTesting {
 	
 	private void empA() {
 		System.out.println("emp a done ");
-		system.out.println("emp b done");
+	
 
 
 	}
